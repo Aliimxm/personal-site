@@ -1,0 +1,33 @@
+body{
+    background-color: aqua;
+}
+
+.round{
+    border-radius: 100%;
+}
+
+.profile-pic{
+width: 150px;
+height: 150px;
+}
+.post-pic{
+    height: 400px;
+    width: 400px;
+}
+
+.heading-white{
+    color: aliceblue;
+
+}
+.heading-black{
+    color:black;
+}
+
+
+#introduction{
+    background-color: black;
+}
+
+#about{
+    background-color: azure;
+}
